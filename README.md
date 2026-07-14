@@ -1,29 +1,20 @@
 # Preparation for SIMC 2026
 
-My preparation for the **Singapore International Mathematical and Computational
-Challenge (SIMC)** — three fully worked problems, each with the official statement,
-a solution write-up, code, and data.
+An index of the work I did to prepare for the **Singapore International Mathematical
+and Computational Challenge (SIMC) 2026** — practice problems and modelling projects,
+each kept in its own repository. This repository is just the map; the code and data
+live in the linked repositories below.
 
-Each problem also lives in its own standalone repository (linked below); this
-repository collects all three in one place.
+## Contents
 
-## Problems
+| Project | What it is |
+|---------|-----------|
+| [Risk-Weighted Assets Optimization](https://github.com/maksimkaprosuperhacker/Risk-Weighted-Assets-Optimization) | Minimising a bank's risk-weighted assets by dynamic programming |
+| [Species Differentiation of Lizards](https://github.com/maksimkaprosuperhacker/Species-Differentiation-of-Lizards) | Simple, interpretable criteria to classify *Darevskia* lizard species from measurements |
+| [SIMC 2024 Endeavour Challenge](https://github.com/maksimkaprosuperhacker/Singapore-International-Mathematical-and-Computational-Challenge-2024-Endeavor-Challenge) | The 2024 Endeavour Challenge — image and pattern tasks over packed arrays |
+| [IMMC 2026 Wildfire Modeling](https://github.com/maksimkaprosuperhacker/IMMC-2026) | Wildfire risk and protection modelling for national parks (NASA FIRMS data) |
 
-| Problem | Description | Standalone repository |
-|---------|-------------|-----------------------|
-| RWA | Risk-weighted asset optimisation via dynamic programming | [SIMC-RWA-Problem](https://github.com/maksimkaprosuperhacker/SIMC-RWA-Problem) |
-| Lizards | Species differentiation by parameter and threshold search | [SIMC-Lizards-Problem](https://github.com/maksimkaprosuperhacker/SIMC-Lizards-Problem) |
-| Proteins | SIMC 2024 Endeavour Challenge — image and pattern tasks | [SIMC-Proteins-Problem](https://github.com/maksimkaprosuperhacker/SIMC-Proteins-Problem) |
-
-## Layout
-
-```
-1) RWA_Problem/         Code/ + Data/ + description and solution PDFs
-2) Lizards_Problem/     Code/ + Data/ + description and solution PDFs
-3) Proteins_Problem/    Code/ + Data/ + description and solution PDFs
-```
-
-All four repositories share the `simc-preparation` topic on GitHub.
+All of these repositories share the `simc-preparation` topic on GitHub.
 
 ## Author
 
